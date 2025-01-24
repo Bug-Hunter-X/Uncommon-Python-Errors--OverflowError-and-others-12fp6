@@ -1,0 +1,1 @@
+This repository contains examples of uncommon error scenarios in Python.  The `bug.py` file demonstrates how `OverflowError` can occur during floating-point operations involving infinity.  The `bugSolution.py` file (optional) may offer potential solutions or workarounds.
